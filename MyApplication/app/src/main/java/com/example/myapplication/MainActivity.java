@@ -1,4 +1,4 @@
-package com.example.dam_uc4_caman;
+package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
